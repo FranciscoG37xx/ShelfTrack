@@ -2,7 +2,7 @@
 
 A desktop library management system built in Java with a MySQL backend, 
 developed as my final project for the PSI (Programação de Sistemas 
-Informáticos) course.
+Informáticos) course. Graded 19/20
 
 ## About
 ShelfTrack replaces manual library record-keeping with a structured digital 
